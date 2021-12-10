@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Salut 👋
+#### Salut 👋
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yaperson/yaperson/output/github-contribution-grid-snake.svg)
 
