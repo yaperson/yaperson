@@ -3,7 +3,7 @@
 ### Hi there 👋
 #### Salut 👋
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/LaurentBouquet/LaurentBouquet/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/yaperson/yaperson/output/github-contribution-grid-snake.svg)
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <picture>
