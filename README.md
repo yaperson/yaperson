@@ -1,9 +1,10 @@
 [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
+![github contribution grid snake animation](https://raw.githubusercontent.com/yaperson/yaperson/output/github-contribution-grid-snake.svg)
+
 
 ### Hi there 👋
 #### Salut 👋
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/yaperson/yaperson/output/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
